@@ -19,6 +19,4 @@ function maskEmail(email) {
 
   const email1 = "jlaqdiem@gmail.com";
   const maskedEmail = maskEmail(email1);
-  console.log(maskedEmail); // Output: "
-
-// Example usage
+  console.log(maskedEmail); // Output: "j*******m@gmail.com"
